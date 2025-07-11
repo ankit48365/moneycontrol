@@ -1,7 +1,12 @@
 ************* Module extract_pdf
+mycode/extract_pdf.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+mycode/extract_pdf.py:44:0: C0305: Trailing newlines (trailing-newlines)
 mycode/extract_pdf.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-mycode/extract_pdf.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+mycode/extract_pdf.py:1:0: E0401: Unable to import 'pdfplumber' (import-error)
+mycode/extract_pdf.py:3:0: E0401: Unable to import 'pandas' (import-error)
+mycode/extract_pdf.py:5:0: C0103: Constant name "pdf_path" doesn't conform to UPPER_CASE naming style (invalid-name)
+mycode/extract_pdf.py:2:0: C0411: standard import "re" should be placed before third party import "pdfplumber" (wrong-import-order)
 
 -----------------------------------
-Your code has been rated at 5.00/10
+Your code has been rated at 3.75/10
 
