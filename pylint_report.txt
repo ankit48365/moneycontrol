@@ -1,0 +1,7 @@
+************* Module extract_pdf
+mycode/extract_pdf.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+mycode/extract_pdf.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 5.00/10
+
