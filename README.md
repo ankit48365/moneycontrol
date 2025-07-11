@@ -2,3 +2,5 @@
 ![CurrentLocal](https://img.shields.io/badge/machine-zbook-brightgreen)
 
 ## money control
+
+### Pylint Github Dynamic Action will run with commits with message "CheckCodeQuality"
