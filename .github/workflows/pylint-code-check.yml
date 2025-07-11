@@ -32,7 +32,7 @@ jobs:
 
       - name: Run pylint
         run: |
-          pylint /mycode > pylint_report.txt || true
+          pylint mycode/ > pylint_report.txt || true
 
       - name: Pylint Score Badge Update
         run: |
