@@ -1,2 +1,4 @@
-# oracle_streamlit
-testing limitation of streamlit visualization using oracle connection with sqlalchemy package
+![pylint](https://img.shields.io/badge/pylint-0.00-yellow)
+![CurrentLocal](https://img.shields.io/badge/machine-zbook-brightgreen)
+
+## money control
